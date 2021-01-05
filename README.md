@@ -1,2 +1,2 @@
 # Coursera_TF
-Learning Coursera Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+Learning Coursera TensorFlow
